@@ -96,3 +96,75 @@
 
 <h1>Gatsby second coruse</h1>
 <h2>Gatsby Developer guide</h2>
+
+<h3>course intro and section intro</h3>
+<iframe src="https://player.vimeo.com/video/648542588" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648550891" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<h3>Gatsby build and GraphQL</h3>
+<iframe src="https://player.vimeo.com/video/648547264" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648548410" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<h3>How to watch the course and how to init Gatsby</h3>
+<iframe src="https://player.vimeo.com/video/648543840" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648546133" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    
+<h3>Source Plugin</h3>
+<iframe src="https://player.vimeo.com/video/648550992" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<h3>About Styling and custom types</h3>
+<iframe src="https://player.vimeo.com/video/648547480" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648548695" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<h3>Pages and Source Data</h3>
+<iframe src="https://player.vimeo.com/video/648546549" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648551279" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<h3>Header Component and module styling</h3>
+<iframe src="https://player.vimeo.com/video/648546793" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648547633" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    
+<h3>More types and tranformer plugin</h3>
+<iframe src="https://player.vimeo.com/video/648548942" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648551440" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    
+<h3>Gatsby Link and Markdown page</h3>
+<iframe src="https://player.vimeo.com/video/648546892" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648551702" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    
+<h3>Nonnuable and array</h3>
+<iframe src="https://player.vimeo.com/video/648549072" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648547757" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    
+<h3>constrcut slug and layout</h3>
+<iframe src="https://player.vimeo.com/video/648551911" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648546968" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    
+<h3>Nested fields and past data to page</h3>
+<iframe src="https://player.vimeo.com/video/648549241" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648547913" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<h3>App and filters and Create blog pages</h3>
+<iframe src="https://player.vimeo.com/video/648549318" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648552150" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>    
+
+<h3>Error page and links and interate posts</h3>
+<iframe src="https://player.vimeo.com/video/648547084" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648548076" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    
+<h3>Complex fliter and post detail page</h3>
+<iframe src="https://player.vimeo.com/video/648549528" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648548163" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<h3>Fetch posts in resolve</h3>
+<iframe src="https://player.vimeo.com/video/648549745" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<h3>Changes slugs get posts from graphql</h3>
+<iframe src="https://player.vimeo.com/video/648552367" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648549904" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<h3>Create Node and remove obsolete files</h3>
+<iframe src="https://player.vimeo.com/video/648550059" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/648552622" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    
+<h3>Get Node to page</h3>
+<iframe src="https://player.vimeo.com/video/648550531" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
